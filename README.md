@@ -1,7 +1,7 @@
 # CECS_456
-Final Project Repository
+# Final Project Repository
 
-Deliverables:
-Github Source Code
-Powerpoint Presentation
-Report
+# Deliverables:
+# Github Source Code
+# Powerpoint Presentation
+# Report
